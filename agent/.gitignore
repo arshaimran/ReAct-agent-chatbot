@@ -1,0 +1,10 @@
+
+venv/
+src/ .env
+src/ _pycache_/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+*.log
+netsol_2023_annualreport.pdf
+test_langraph.py 
