@@ -7,6 +7,9 @@ class ChatState(TypedDict):
     history: List[str]
     user_input: str
     result: str
+    session_id: str
+    decision: str
+
 
 graph = StateGraph(ChatState)
 
