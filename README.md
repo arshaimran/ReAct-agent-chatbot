@@ -16,11 +16,7 @@ A modular, reasoning-augmented chatbot framework that combines Retrieval-Augment
 
 ---
 
-## 🖼️ Demo
 
-![Chatbot UI Screenshot](https://user-images.githubusercontent.com/your-username/demo-screenshot.png)
-
----
 
 ## 🚀 Quickstart
 
